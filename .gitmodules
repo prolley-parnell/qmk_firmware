@@ -28,3 +28,6 @@
 [submodule "keyboards/sofle/keymaps/persimmon_soufle"]
 	path = keyboards/sofle/keymaps/persimmon_soufle
 	url = https://github.com/prolley-parnell/persimmon_soufle.git
+[submodule "keyboards/sofle/keymaps/delete_me"]
+	path = keyboards/sofle/keymaps/delete_me
+	url = https://github.com/prolley-parnell/persimmon_soufle.git
